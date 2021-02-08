@@ -4,4 +4,5 @@ O algoritmo "wavefront" simula a propagação de onda pelo ambiente com o objeti
 ![all text](wavefront.gif)
 
 -> Algoritmo usado para construir o laberinto: Recursive implementation
+
 -> Bibliotecas ultilizadas: pygame, random, numpy
